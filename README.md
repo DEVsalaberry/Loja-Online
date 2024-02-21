@@ -20,15 +20,7 @@ O projeto está organizado da seguinte forma:
 HTML: Contém a estrutura da página web, incluindo elementos como cabeçalho, seções de conteúdo e rodapé.
 CSS: Responsável pelo estilo e layout da página, garantindo uma experiência visualmente agradável e consistente em diferentes dispositivos.
 JavaScript: Lida com a lógica da aplicação, incluindo funcionalidades como toggle de classes para menus, pesquisa e carrinho de compras, além de outras interações dinâmicas.
-Como Executar
-Para executar o projeto localmente, siga estas etapas:
 
-Clone este repositório em sua máquina local utilizando o seguinte comando:
-
-bash
-Copy code
-git clone https://github.com/seu-usuario/loja-virtual-naruto.git
-Navegue até o diretório do projeto:
 
 arduino
 Copy code
